@@ -1,2 +1,5 @@
+# Bluetooth
+bluetooth.profile.sap.server.enabled=true
+
 # DPM
 persist.vendor.dpm.feature=11
