@@ -25,6 +25,7 @@ WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
 OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
 IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 -->
+<<<<<<< HEAD:vintf/framework_manifest.xml
 <manifest version="1.0" type="framework">
     <!--QDMA hal-->
     <hal format="hidl">
@@ -37,3 +38,9 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
         </interface>
     </hal>
 </manifest>
+=======
+<resources>
+    <!-- Enable doze mode -->
+    <bool name="doze_display_state_supported">true</bool>
+</resources>
+>>>>>>> 05ee4507e (sm8475-common: remove config_quickSettingsAutoAdd overlay):resource-overlay/common/SystemUI/res/values/config.xml
