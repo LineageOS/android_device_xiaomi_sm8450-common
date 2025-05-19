@@ -34,6 +34,24 @@
       "parentUuid": "e30230bd_88ed91f7",
       "revId": "900534a389af124e2a79f2286243c81850440efe",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d2316ea7_26e10922",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33800
+      },
+      "writtenOn": "2025-05-19T15:27:33Z",
+      "side": 1,
+      "message": "FYI if you\u0027ll update manifest version it will fail",
+      "parentUuid": "85cf0daa_d09db2b6",
+      "revId": "900534a389af124e2a79f2286243c81850440efe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
