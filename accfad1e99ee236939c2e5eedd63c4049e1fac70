@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bc4da1fc_674d1b53",
+        "filename": "wlan/WCNSS_qcom_cfg_qca6490.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-05-19T17:36:44Z",
+      "side": 1,
+      "message": "these are the default values",
+      "range": {
+        "startLine": 96,
+        "startChar": 0,
+        "endLine": 97,
+        "endChar": 24
+      },
+      "revId": "accfad1e99ee236939c2e5eedd63c4049e1fac70",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cbc18624_a4b1ecff",
+        "filename": "wlan/WCNSS_qcom_cfg_qca6490.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-05-19T17:36:44Z",
+      "side": 1,
+      "message": "the max value is 3000 according to qcom/opensource/wlan/qcacld-3.0/components/mlme/dispatcher/inc/cfg_mlme_timeout.h",
+      "range": {
+        "startLine": 110,
+        "startChar": 0,
+        "endLine": 110,
+        "endChar": 2
+      },
+      "revId": "accfad1e99ee236939c2e5eedd63c4049e1fac70",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ae9a050e_4b2a44da",
+        "filename": "wlan/WCNSS_qcom_cfg_qca6490.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-05-19T17:36:44Z",
+      "side": 1,
+      "message": "actually -75",
+      "range": {
+        "startLine": 129,
+        "startChar": 19,
+        "endLine": 129,
+        "endChar": 21
+      },
+      "revId": "accfad1e99ee236939c2e5eedd63c4049e1fac70",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ce3810b0_f85db889",
+        "filename": "wlan/WCNSS_qcom_cfg_qca6490.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 150,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-05-19T17:36:44Z",
+      "side": 1,
+      "message": "this does not seem to exist on sm8450 anymore",
+      "range": {
+        "startLine": 150,
+        "startChar": 0,
+        "endLine": 150,
+        "endChar": 2
+      },
+      "revId": "accfad1e99ee236939c2e5eedd63c4049e1fac70",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8d698efa_82369d14",
+        "filename": "wlan/WCNSS_qcom_cfg_qca6490.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 200,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-05-19T17:36:44Z",
+      "side": 1,
+      "message": "this is the default",
+      "range": {
+        "startLine": 200,
+        "startChar": 0,
+        "endLine": 200,
+        "endChar": 2
+      },
+      "revId": "accfad1e99ee236939c2e5eedd63c4049e1fac70",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
