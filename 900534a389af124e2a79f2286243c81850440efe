@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e30230bd_88ed91f7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-05-19T14:03:04Z",
+      "side": 1,
+      "message": "this is not a problem as is, build system converts everything to fqnames anyway and this configuration comes from upstream clo, so i\u0027d avoid unnecessary changes: https://git.codelinaro.org/clo/la/platform/vendor/qcom/taro/-/blob/LA.VENDOR.1.0.r1-27400-WAIPIO.QSSI16.0/manifest_taro.xml?ref_type\u003dtags",
+      "revId": "900534a389af124e2a79f2286243c81850440efe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
