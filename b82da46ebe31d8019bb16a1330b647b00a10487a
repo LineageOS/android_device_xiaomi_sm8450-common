@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8d77702a_a22e8e29",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-06-26T13:29:01Z",
+      "side": 1,
+      "message": "Fixes telephony on A16 DSU, devices with esim can overwrite this in their device overlay with higher priority.",
+      "revId": "b82da46ebe31d8019bb16a1330b647b00a10487a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
