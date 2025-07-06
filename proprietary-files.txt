@@ -1,10 +1,5 @@
 # All unpinned blobs below are extracted from diting OS2.0.203.0.VLFMIXM
 
-# Current blobs with ELF checks disabled:
-# libmcs depends on libar-acdb, libagm, libats, liblx-osal which are gnu makefile targets
-# libqc2audio_hwaudiocodec depends on libpalclient, which is a gnu makefile target
-# libqtigefar depends on libar-pal, which is a gnu makefile target
-
 # ADSP
 vendor/bin/adsprpcd
 vendor/etc/init/vendor.qti.adsprpc-guestos-service.rc
@@ -23,9 +18,9 @@ vendor/lib64/libaudio_log_utils.so
 vendor/lib64/libcapiv2svacnnvendor.so
 vendor/lib64/libcapiv2svarnnvendor.so
 vendor/lib64/libcapiv2uvvendor.so
-vendor/lib64/libmcs.so;DISABLE_CHECKELF
+vendor/lib64/libmcs.so
 vendor/lib64/libpal_net_if.so
-vendor/lib64/libqtigefar.so;DISABLE_CHECKELF
+vendor/lib64/libqtigefar.so
 vendor/lib64/soundfx/libasphere.so
 
 # Bluetooth
@@ -468,7 +463,7 @@ vendor/lib64/libqc2audio_base.so
 vendor/lib64/libqc2audio_basecodec.so
 vendor/lib64/libqc2audio_core.so
 vendor/lib64/libqc2audio_hooks.so
-vendor/lib64/libqc2audio_hwaudiocodec.so;DISABLE_CHECKELF
+vendor/lib64/libqc2audio_hwaudiocodec.so
 vendor/lib64/libqc2audio_platform.so
 vendor/lib64/libqc2audio_swaudiocodec.so
 vendor/lib64/libqc2audio_utils.so
