@@ -90,7 +90,8 @@ BOARD_VENDOR_RAMDISK_FRAGMENT.dlkm.KERNEL_MODULE_DIRS := top
 
 BOARD_KERNEL_CMDLINE := \
     disable_dma32=on \
-    mtdoops.fingerprint=$(LINEAGE_VERSION)
+    mtdoops.fingerprint=$(LINEAGE_VERSION) \
+    sysctl.kernel.firmware_config.force_sysfs_fallback=1
 BOARD_BOOTCONFIG := \
     androidboot.hardware=qcom \
     androidboot.memcg=1 \
