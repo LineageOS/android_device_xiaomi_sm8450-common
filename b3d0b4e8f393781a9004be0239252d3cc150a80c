@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ce8cd563_08169525",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-09-22T13:38:52Z",
+      "side": 1,
+      "message": "This seems to require updated proprietary blobs, probably acdbdata too:\n`\n09-22 13:34:30.780  1291 13007 I PAL: API: pal_stream_start: 294: Enter. Stream handle 0xb4000071ea918350K\n09-22 13:34:30.780  1291 13007 D btaudio_offload: audio_stream_start: state \u003d AUDIO_A2DP_STATE_STOPPED\n09-22 13:34:30.780  1291 13007 E PAL: Bluetooth: startPlayback: 1743: BT controller start return \u003d 0\n09-22 13:34:30.780  1291 13007 I btaudio_offload: audio_get_codec_config: state \u003d AUDIO_A2DP_STATE_STOPPED\n09-22 13:34:30.780  1291 13007 E PAL: Bluetooth: startPlayback: 1754: invalid encoder config\n09-22 13:34:30.780  1291 13007 I btaudio_offload: audio_stream_stop\n09-22 13:34:30.780  1291 13007 W btaudio_offload: audio_stream_stop: stack is down`",
+      "revId": "b3d0b4e8f393781a9004be0239252d3cc150a80c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
