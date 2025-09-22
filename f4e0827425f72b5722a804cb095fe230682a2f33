@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "021cf019_a5430f69",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-09-22T09:36:47Z",
+      "side": 1,
+      "message": "maybe update this to be https://bitbucket.org/bluetooth-SIG/public/src/a0d104dab7da1c7e7da98ea58b4b9a240d51da82/assigned_numbers/company_identifiers/company_identifiers.yaml#lines-9121",
+      "revId": "f4e0827425f72b5722a804cb095fe230682a2f33",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
