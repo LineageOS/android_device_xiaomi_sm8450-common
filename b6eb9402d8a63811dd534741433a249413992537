@@ -16,6 +16,24 @@
       "message": "To fix green screen in WFD.",
       "revId": "b6eb9402d8a63811dd534741433a249413992537",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "67a0d3ea_3576c784",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-17T15:14:58Z",
+      "side": 1,
+      "message": "WFD seems to work just fine without this though? When is there a green screen?",
+      "parentUuid": "778bb6f1_9f940175",
+      "revId": "b6eb9402d8a63811dd534741433a249413992537",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
