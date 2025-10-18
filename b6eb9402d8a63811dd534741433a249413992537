@@ -88,6 +88,24 @@
       "parentUuid": "f48dc5a8_c75f8aa9",
       "revId": "b6eb9402d8a63811dd534741433a249413992537",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ad109026_8690ddcd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16779
+      },
+      "writtenOn": "2025-10-18T12:53:07Z",
+      "side": 1,
+      "message": "FYI, whether this prop is needed or not depends on the first API level of the device, see Iecd2be3eb8775855d82763f069a38bb70fe53d4e.",
+      "parentUuid": "6c30e944_ac5bd6b8",
+      "revId": "b6eb9402d8a63811dd534741433a249413992537",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
