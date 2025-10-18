@@ -70,6 +70,24 @@
       "parentUuid": "3f8e8dd8_8641d4ba",
       "revId": "b6eb9402d8a63811dd534741433a249413992537",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6c30e944_ac5bd6b8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34296
+      },
+      "writtenOn": "2025-10-18T01:02:28Z",
+      "side": 1,
+      "message": "Without both commits, I got a green screen like that and after about 10 seconds disconnected automatically and even if I turned off the TV or the device WFD service was still working and showing on the notification panel.\nhttps://ibb.co/N2hY9CB0\nhttps://ibb.co/Sw9syV6T",
+      "parentUuid": "f48dc5a8_c75f8aa9",
+      "revId": "b6eb9402d8a63811dd534741433a249413992537",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
