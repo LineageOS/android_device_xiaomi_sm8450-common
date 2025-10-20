@@ -154,3 +154,11 @@ service vendor.sensors-hal-multihal /vendor/bin/hw/android.hardware.sensors-serv
 
 on property:ro.boot.hwversion=*
     setprop ro.boot.hardware.revision ${ro.boot.hwc}_${ro.boot.hwlevel}_${ro.boot.hwversion}
+
+# Enable WLAN SSR recovery
+on property:persist.vendor.ssr.restart_level=ALL_ENABLE
+    write /sys/kernel/cnss/recovery 1
+
+# Disable WLAN SSR recovery
+on property:persist.vendor.ssr.restart_level=ALL_DISABLE
+    write /sys/kernel/cnss/recovery 0
