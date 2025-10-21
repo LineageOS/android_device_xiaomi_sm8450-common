@@ -11,6 +11,8 @@ hal_server_domain(hal_camera_default, vendor_hal_camerapostproc_xiaomi)
 allow hal_camera_client vendor_hal_camerapostproc_xiaomi_hwservice:hwservice_manager find;
 add_hwservice(hal_camera_server, vendor_hal_camerapostproc_xiaomi_hwservice)
 
+allow hal_camera_default hal_quickcamera_hwservice:hwservice_manager find;
+
 allow hal_camera_default camera_persist_file:dir search;
 allow hal_camera_default vendor_persist_sensors_file:dir search;
 allow hal_camera_default stmvl53l5_device:chr_file { ioctl open read write };
