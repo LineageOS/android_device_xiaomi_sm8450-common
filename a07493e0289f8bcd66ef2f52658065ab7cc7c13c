@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "30813e73_e8c0fae9",
+        "filename": "sepolicy/vendor/hal_audio.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-22T07:26:21Z",
+      "side": 1,
+      "message": "this might also be unnecessary now",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 6,
+        "endChar": 2
+      },
+      "revId": "a07493e0289f8bcd66ef2f52658065ab7cc7c13c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
