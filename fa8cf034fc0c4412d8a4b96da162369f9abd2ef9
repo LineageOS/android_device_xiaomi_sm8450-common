@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1b8a61dd_0d8af5e3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-22T21:19:50Z",
+      "side": 1,
+      "message": "we don\u0027t update the gps hal for no reason without updating blobs",
+      "revId": "fa8cf034fc0c4412d8a4b96da162369f9abd2ef9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
