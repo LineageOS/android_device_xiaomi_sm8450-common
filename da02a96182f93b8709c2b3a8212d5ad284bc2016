@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2ff121e2_b4b5b940",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-22T08:36:11Z",
+      "side": 1,
+      "message": "stock has (allow hal_camera_default hal_quickcamera_hwservice (hwservice_manager (add find))), so we should probably also use add_hwservice here",
+      "revId": "da02a96182f93b8709c2b3a8212d5ad284bc2016",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3c48dc8c_a877abff",
+        "filename": "sepolicy/vendor/hal_camera_default.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-22T08:36:11Z",
+      "side": 1,
+      "message": "```suggestion\nadd_hwservice(hal_camera_default, hal_quickcamera_hwservice)\n```",
+      "range": {
+        "startLine": 14,
+        "startChar": 0,
+        "endLine": 14,
+        "endChar": 2
+      },
+      "revId": "da02a96182f93b8709c2b3a8212d5ad284bc2016",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
