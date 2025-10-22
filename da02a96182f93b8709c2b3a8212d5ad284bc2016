@@ -63,6 +63,30 @@
       },
       "revId": "da02a96182f93b8709c2b3a8212d5ad284bc2016",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "377c8e4f_f243dd11",
+        "filename": "sepolicy/vendor/hal_camera_default.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-22T10:30:46Z",
+      "side": 1,
+      "message": "i know it was my suggestion and stock does the same, but please don\u0027t vote verified if you didn\u0027t compile test it.",
+      "parentUuid": "32b6779c_67f44dca",
+      "range": {
+        "startLine": 14,
+        "startChar": 0,
+        "endLine": 14,
+        "endChar": 2
+      },
+      "revId": "da02a96182f93b8709c2b3a8212d5ad284bc2016",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
