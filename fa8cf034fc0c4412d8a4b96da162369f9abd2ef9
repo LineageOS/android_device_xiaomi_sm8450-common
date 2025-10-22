@@ -16,6 +16,24 @@
       "message": "we don\u0027t update the gps hal for no reason without updating blobs",
       "revId": "fa8cf034fc0c4412d8a4b96da162369f9abd2ef9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e6acdece_8f41be9f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2025-10-22T21:27:28Z",
+      "side": 1,
+      "message": "Ok",
+      "parentUuid": "1b8a61dd_0d8af5e3",
+      "revId": "fa8cf034fc0c4412d8a4b96da162369f9abd2ef9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
