@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6223659b_e2b1969a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-22T09:46:51Z",
+      "side": 1,
+      "message": "how did you trigger the denial btw? I don\u0027t see it on my devices.",
+      "revId": "4ac532dcdf9f813014a85492006d5d7bfd04ebd6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
