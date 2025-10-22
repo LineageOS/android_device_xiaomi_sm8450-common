@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bad11e2a_ccf4fd3c",
+        "filename": "sepolicy/vendor/hal_audio.te",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-22T09:50:56Z",
+      "side": 1,
+      "message": "this rule seems to be wrong and unnecessary too",
+      "range": {
+        "startLine": 4,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 2
+      },
+      "revId": "e2d7b69fdb5387bc107428f17af4fb1902ee4af2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
