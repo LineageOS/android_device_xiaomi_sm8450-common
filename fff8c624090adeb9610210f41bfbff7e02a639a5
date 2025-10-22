@@ -16,6 +16,23 @@
       "message": "the change looks good, but we should verify that we don\u0027t instead miss to label some files as vendor_sysfs_qcom_battery. The rules come from stock. I can verify that later.",
       "revId": "fff8c624090adeb9610210f41bfbff7e02a639a5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2583d0b1_6a9ba0e0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-22T08:37:59Z",
+      "side": 1,
+      "message": "stock does this: (genfscon sysfs /class/qcom-battery (u object_r vendor_sysfs_qcom_battery ((s0) (s0))) but our qcom common sepolicy labels it as vendor_sysfs_battery_supply and both services allow everything to both, so we don\u0027t miss anything stock allows.",
+      "revId": "fff8c624090adeb9610210f41bfbff7e02a639a5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
