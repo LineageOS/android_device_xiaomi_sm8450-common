@@ -34,6 +34,24 @@
       "parentUuid": "84d2fe78_85ec17fa",
       "revId": "3fcfcb461c479e255da46fedbce84de6a5556e14",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0a5bc3b7_e04ca660",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-23T14:22:12Z",
+      "side": 1,
+      "message": "no, stock uses SHA256_RSA2048 for vbmeta.img, vbmeta_system.img and recovery.img.",
+      "parentUuid": "e99640e5_6dcfb1ba",
+      "revId": "3fcfcb461c479e255da46fedbce84de6a5556e14",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
