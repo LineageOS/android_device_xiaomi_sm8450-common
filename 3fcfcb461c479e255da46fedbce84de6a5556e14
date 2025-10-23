@@ -52,6 +52,24 @@
       "parentUuid": "e99640e5_6dcfb1ba",
       "revId": "3fcfcb461c479e255da46fedbce84de6a5556e14",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "23d3351f_d6e1749a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2025-10-23T15:13:06Z",
+      "side": 1,
+      "message": "Should set BOARD_AVB_ALGORITHM to SHA256_RSA2048?\n\nI see some devices that use RSA2048 test keys they set BOARD_AVB_ALGORITHM to SHA256_RSA2048",
+      "parentUuid": "0a5bc3b7_e04ca660",
+      "revId": "3fcfcb461c479e255da46fedbce84de6a5556e14",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
