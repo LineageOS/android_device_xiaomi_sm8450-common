@@ -16,6 +16,24 @@
       "message": "why",
       "revId": "3fcfcb461c479e255da46fedbce84de6a5556e14",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e99640e5_6dcfb1ba",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2025-10-23T09:06:03Z",
+      "side": 1,
+      "message": "Allign with stock and CLO.\n\nhttps://git.codelinaro.org/clo/la/platform/vendor/qcom/taro/-/blob/LA.VENDOR.1.0.r1-28700-WAIPIO.QSSI16.0/BoardConfig.mk?ref_type\u003dtags#L81\n\nhttps://dumps.tadiphone.dev/dumps/redmi/diting/-/blob/missi-user-15-AQ3A.241006.001-OS2.0.6.0.VLFCNXM-release-keys/aosp-device-tree/BoardConfig.mk?ref_type\u003dheads#L103\n\nhttps://dumps.tadiphone.dev/dumps/redmi/diting/-/blob/missi-user-15-AQ3A.241006.001-OS2.0.6.0.VLFCNXM-release-keys/aosp-device-tree/BoardConfig.mk?ref_type\u003dheads#L107",
+      "parentUuid": "84d2fe78_85ec17fa",
+      "revId": "3fcfcb461c479e255da46fedbce84de6a5556e14",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
