@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4714c89c_58918b67",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-24T07:16:13Z",
+      "side": 1,
+      "message": "we can not merge this until every device has 2025-08-01 or newer",
+      "revId": "a254cdb96aec77ead5a58c929f56b88535d5a53d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
