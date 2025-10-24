@@ -70,6 +70,24 @@
       "parentUuid": "0a5bc3b7_e04ca660",
       "revId": "3fcfcb461c479e255da46fedbce84de6a5556e14",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ca2da94a_7a43f729",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2025-10-24T01:06:54Z",
+      "side": 1,
+      "message": "After I verified the algorithm that vbmeta.img currently uses:\n```avbtool info_image --image vbmeta.img | grep Algorithm\nAlgorithm:                SHA256_RSA4096```\n\nvbmeta.img on stock:\n```avbtool info_image --image vbmeta.img | grep Algorithm\nAlgorithm:                SHA256_RSA2048```\n\nStock and current vbmeta_system.img, recovery.img algorithms both use RSA2048.",
+      "parentUuid": "23d3351f_d6e1749a",
+      "revId": "3fcfcb461c479e255da46fedbce84de6a5556e14",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
