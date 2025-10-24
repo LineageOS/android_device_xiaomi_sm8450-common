@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e7e8499d_e2064473",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-24T07:32:53Z",
+      "side": 1,
+      "message": "while we\u0027re at it, we definitely should get rid of the rootfs and sysfs rules here and if necessary label the specific nodes it really uses.",
+      "revId": "85f398340dbd4f4ee3ea5ac1f175f0495de1ca07",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
