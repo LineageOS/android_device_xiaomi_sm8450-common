@@ -16,6 +16,24 @@
       "message": "this needs media codecs changes too",
       "revId": "de3bae762340ecbaa9d891154154181180fc4a7c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a12d79d7_5a1e4463",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-24T08:42:34Z",
+      "side": 1,
+      "message": "our media codecs configurations only provide OMX codecs as aliases to the new c2 codecs, so this should be fine as is.",
+      "parentUuid": "6af62ccd_3ab088ed",
+      "revId": "de3bae762340ecbaa9d891154154181180fc4a7c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
