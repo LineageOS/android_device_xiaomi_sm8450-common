@@ -1,5 +1,4 @@
 # Audio
-/dev/socket/audio_hw_socket u:object_r:audio_socket:s0
 /dev/socket/audio_us_socket_0 u:object_r:audio_socket:s0
 /dev/socket/audio_us_socket_1 u:object_r:audio_socket:s0
 
