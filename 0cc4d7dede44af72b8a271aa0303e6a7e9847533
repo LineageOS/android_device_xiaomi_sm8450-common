@@ -16,6 +16,23 @@
       "message": "Oh thanks!",
       "revId": "0cc4d7dede44af72b8a271aa0303e6a7e9847533",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a7971dc6_678e388f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-24T19:36:00Z",
+      "side": 1,
+      "message": "unless this fixes something i would prefer to not diverge from qcom here. It doesn\u0027t harm to have an overlay which is not used.",
+      "revId": "0cc4d7dede44af72b8a271aa0303e6a7e9847533",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
