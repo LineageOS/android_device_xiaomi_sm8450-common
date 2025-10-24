@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f9b088a3_cedb9769",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2025-10-24T11:19:05Z",
+      "side": 1,
+      "message": "I think there is no problem for other devices, because each thermal zone is already handled by mi_thermald.",
+      "revId": "efe07e4d7ee7d79e5bdfc07b8153a4637bdeb589",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
