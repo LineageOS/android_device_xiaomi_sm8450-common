@@ -22,6 +22,30 @@
       },
       "revId": "481a5ff4767a4a000bbe5444b4f88dbc200f7b70",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "71ce9c92_76f9595b",
+        "filename": "sepolicy/vendor/hal_audio.te",
+        "patchSetId": 5
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2025-10-25T03:43:21Z",
+      "side": 1,
+      "message": "Ah used by Cirrus speaker calibration, forget it :)",
+      "parentUuid": "43d07950_832184f0",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 69
+      },
+      "revId": "481a5ff4767a4a000bbe5444b4f88dbc200f7b70",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
