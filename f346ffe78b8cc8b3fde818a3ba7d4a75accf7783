@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "880eed2d_a2d16108",
+        "filename": "sepolicy/vendor/hal_audio.te",
+        "patchSetId": 7
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-26T12:05:57Z",
+      "side": 0,
+      "message": "`10-26 13:04:22.083  1326  1326 W libc    : Unable to set property \"vendor.audio.crus.smartpa.inited\" to \"true\": connection failed: Permission denied\n10-26 13:04:22.079  1326  1326 W binder:1326_2: type\u003d1400 audit(0.0:15): avc:  denied  { write } for  name\u003d\"property_service\" dev\u003d\"tmpfs\" ino\u003d1055 scontext\u003du:r:hal_audio_default:s0 tcontext\u003du:object_r:property_socket:s0 tclass\u003dsock_file permissive\u003d0`\nThis is used for cirrus calibration",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 2
+      },
+      "revId": "f346ffe78b8cc8b3fde818a3ba7d4a75accf7783",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
