@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e5eba94a_e8cfdf8d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-11-14T23:24:23Z",
+      "side": 1,
+      "message": "this removes the wakeup label and wakeup_enable should not be labelled sysfs_wakeup",
+      "revId": "2c519b1de3288d92df00da8f03ef19054fb859ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
