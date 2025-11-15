@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "98593f13_3a02fd71",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2025-11-15T00:41:38Z",
+      "side": 1,
+      "message": "I think just give label to wakeup_enable.",
+      "revId": "775dfb42d2c89e3600a3a0be9b989afc32ffbb4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
