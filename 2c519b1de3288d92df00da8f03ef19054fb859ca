@@ -34,6 +34,24 @@
       "parentUuid": "e5eba94a_e8cfdf8d",
       "revId": "2c519b1de3288d92df00da8f03ef19054fb859ca",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2fb2a01f_127c9241",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2025-11-15T00:15:07Z",
+      "side": 1,
+      "message": "I mean /soc:fingerprint_fpc",
+      "parentUuid": "bcd432d4_3ac052ce",
+      "revId": "2c519b1de3288d92df00da8f03ef19054fb859ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
