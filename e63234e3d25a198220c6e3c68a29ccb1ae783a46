@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "21f98468_708ba89c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2025-12-02T12:00:17Z",
+      "side": 1,
+      "message": "```suggestion\nsm8450-common: Update blobs from diting OS2.0.205.0.VLFMIXM\n```",
+      "range": {
+        "startLine": 7,
+        "startChar": 15,
+        "endLine": 7,
+        "endChar": 65
+      },
+      "revId": "e63234e3d25a198220c6e3c68a29ccb1ae783a46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
