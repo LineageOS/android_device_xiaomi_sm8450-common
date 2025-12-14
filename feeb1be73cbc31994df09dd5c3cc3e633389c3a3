@@ -52,6 +52,24 @@
       "parentUuid": "4c5f4d4d_6e94ebd9",
       "revId": "feeb1be73cbc31994df09dd5c3cc3e633389c3a3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "78e9b119_fa7a112f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-12-14T20:39:13Z",
+      "side": 1,
+      "message": "the commit message does not really explain why we would want this. Anyway i\u0027d prefer to pick the CLO commit if we really want this https://github.com/LineageOS/android_hardware_qcom_audio-ar/commit/54cfb5ef1e9a2707a38e11b05a7baae7e6b66a4c",
+      "parentUuid": "f10b2250_04a8690c",
+      "revId": "feeb1be73cbc31994df09dd5c3cc3e633389c3a3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
