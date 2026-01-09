@@ -52,6 +52,24 @@
       "parentUuid": "c4541a60_990ffed7",
       "revId": "9eac36b0e1493b939cd946e805d13f8593448879",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cbfdf17a_2e57ba51",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-01-09T10:01:04Z",
+      "side": 1,
+      "message": "device/qcom/sepolicy_vndr/legacy-um/generic/vendor/common/service.te",
+      "parentUuid": "c3a0d77f_35cbcb8e",
+      "revId": "9eac36b0e1493b939cd946e805d13f8593448879",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
