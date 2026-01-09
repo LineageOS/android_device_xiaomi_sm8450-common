@@ -16,6 +16,24 @@
       "message": "```\nPS: These rules are present in all android_device_qcom_sepolicy_* targets, except for the sm8450 and sm8550 platforms.\n\n```\n\nThen add them there if they are actually needed (althought said target uses the HIDL poweroff alarm stack?)",
       "revId": "9eac36b0e1493b939cd946e805d13f8593448879",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c4541a60_990ffed7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-01-09T09:53:21Z",
+      "side": 1,
+      "message": "this not works",
+      "parentUuid": "d6e6887f_4bf9f5d0",
+      "revId": "9eac36b0e1493b939cd946e805d13f8593448879",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
