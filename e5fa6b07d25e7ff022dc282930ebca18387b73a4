@@ -68,6 +68,24 @@
       "message": "as mentioned, a better commit message would be nice. Also this causes no issues, does it?",
       "revId": "e5fa6b07d25e7ff022dc282930ebca18387b73a4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bbc81119_e314d084",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-01-09T04:58:30Z",
+      "side": 1,
+      "message": "Currently this does not cause functional issues, but raw separator lines like \u003d\u003d\u003d\u003d are still parsed as shell commands and produce harmless but noisy \"command not found\" messages.",
+      "parentUuid": "0302eb03_52fbe2e3",
+      "revId": "e5fa6b07d25e7ff022dc282930ebca18387b73a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
