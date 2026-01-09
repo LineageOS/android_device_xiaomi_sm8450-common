@@ -70,6 +70,24 @@
       "parentUuid": "c3a0d77f_35cbcb8e",
       "revId": "9eac36b0e1493b939cd946e805d13f8593448879",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "82b5f8db_64beaa0d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32253
+      },
+      "writtenOn": "2026-01-09T10:14:16Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_device_xiaomi_sm8450-common/blob/lineage-23.0/proprietary-files.txt#L527\n\nhttps://github.com/LineageOS/android_device_xiaomi_sm8450-common/blob/lineage-23.0/vintf/manifest.xml#L470\n\nAgain, if you actually need that label, do it on sepolicy/qcom repo instead (by picking this commit I638ce2821396a620de3474d73f5ba65b42629b85)",
+      "parentUuid": "cbfdf17a_2e57ba51",
+      "revId": "9eac36b0e1493b939cd946e805d13f8593448879",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
