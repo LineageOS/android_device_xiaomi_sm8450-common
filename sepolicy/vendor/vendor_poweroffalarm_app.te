@@ -1,0 +1,1 @@
+allow vendor_poweroffalarm_app vendor_hal_alarm_qti_aidl_service:service_manager find;
