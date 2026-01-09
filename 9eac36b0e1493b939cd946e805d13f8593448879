@@ -88,6 +88,24 @@
       "parentUuid": "cbfdf17a_2e57ba51",
       "revId": "9eac36b0e1493b939cd946e805d13f8593448879",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "410d8143_51b24de6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-01-09T10:19:26Z",
+      "side": 1,
+      "message": "https://ibb.co/Vp9PLfMN\nworks only other add \"aidl sepolicy\"",
+      "parentUuid": "cbfdf17a_2e57ba51",
+      "revId": "9eac36b0e1493b939cd946e805d13f8593448879",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
