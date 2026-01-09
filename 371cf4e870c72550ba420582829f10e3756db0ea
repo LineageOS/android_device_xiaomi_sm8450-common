@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bb2874b3_713a62cf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34512
+      },
+      "writtenOn": "2026-01-09T09:04:50Z",
+      "side": 1,
+      "message": "commit msg looks much better now, for device tree commits always prefix with sm8450-common for this repo for e.g",
+      "revId": "371cf4e870c72550ba420582829f10e3756db0ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
