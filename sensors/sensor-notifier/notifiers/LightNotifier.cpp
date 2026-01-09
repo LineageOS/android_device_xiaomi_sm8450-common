@@ -82,7 +82,7 @@ void LightNotifier::notify() {
             .events = POLLIN,
     };
 
-    _oem_msg* msg = new _oem_msg;
+    auto msg = std::make_unique<_oem_msg>();
     notify_t notifyType;
     float value;
 
@@ -144,7 +144,7 @@ void LightNotifier::notify() {
             msg->unknown1 = 1;
             msg->unknown2 = 5;
 
-            SscCalApiWrapper::getInstance().processMsg(msg);
+            SscCalApiWrapper::getInstance().processMsg(msg.get());
         }
     }
 }
