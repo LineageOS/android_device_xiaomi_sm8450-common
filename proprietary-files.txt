@@ -102,7 +102,6 @@ vendor/lib64/vendor.qti.data.factory@2.3.so
 vendor/lib64/vendor.qti.data.factory@2.4.so
 vendor/lib64/vendor.qti.data.factory@2.5.so
 vendor/lib64/vendor.qti.data.slm@1.0.so
-vendor/lib64/vendor.qti.hardware.cacert@1.0.so
 vendor/lib64/vendor.qti.hardware.data.cne.internal.api@1.0.so
 vendor/lib64/vendor.qti.hardware.data.cne.internal.constants@1.0.so
 vendor/lib64/vendor.qti.hardware.data.cne.internal.server@1.0.so
@@ -337,6 +336,7 @@ vendor/lib64/qcril_client.so|767e792212f844fe4da003bc515980fcd77e41b2
 vendor/lib64/vendor.qti.gnss-V3-ndk.so|76c929bab907bb879b27bdcc876863071d10aa29
 vendor/lib64/vendor.qti.gnss-V5-ndk.so|4854ea8bf89c800f72ee9d7d25fc94c61d2bff4f
 vendor/lib64/vendor.qti.gnss-service.so|f27f0dbdd9f638ea9207ad05933b1c42e7e6a922
+vendor/lib64/vendor.qti.hardware.cacert@1.0.so|266dcb75239eb24a529f7a4bce0286fba3dd0693
 
 # Graphics (Adreno)
 vendor/app/com.qualcomm.qti.gpudrivers.taro.api31/com.qualcomm.qti.gpudrivers.taro.api31.apk
