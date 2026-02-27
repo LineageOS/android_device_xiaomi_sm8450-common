@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "78732b1d_f9352719",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2026-02-27T09:47:58Z",
+      "side": 1,
+      "message": "There is no change in the blob because there is no difference in SHA1.",
+      "revId": "7c206eb4c8a1c780ac1b7aa894f3ec6bed102997",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
