@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2b3d8134_b054c91b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2026-02-27T11:49:37Z",
+      "side": 1,
+      "message": "Fixed:\n```D nativeloader: Load libjnihelper.so using class loader ns vendor-clns-9 (caller\u003d/vendor/app/CACertService/CACertService.apk): ok```",
+      "revId": "0bb5f8577aff7da6ca8ef892aedae3068f587115",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
