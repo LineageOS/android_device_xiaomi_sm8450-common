@@ -39,6 +39,24 @@
       "message": "to be clear, i just wish for a change in the commit message, the change looks reasonable giving the crash. Either remove the part or explain how you actually came to the conclusion that this is the right size.",
       "revId": "22d3f053e6613fedc8dc1aec0946f4c4fbb71f40",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "20c95596_687f7ceb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2026-03-17T10:07:11Z",
+      "side": 1,
+      "message": "Done.",
+      "parentUuid": "d8ef92f7_eb3a54a1",
+      "revId": "22d3f053e6613fedc8dc1aec0946f4c4fbb71f40",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
