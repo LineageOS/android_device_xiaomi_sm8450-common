@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "059ea49c_c716582d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2026-03-17T09:53:43Z",
+      "side": 1,
+      "message": "can you elaborate on this? doesn\u0027t seem to be correct.\nQuoting from my last commit message: \"Looking at process_msg in libssccalapi@2.0.so, the oem_msg struct seems\nto be used up to param_1[0x40] with type int *param_1. With an int\nbeing 4 bytes, this indicates that the struct size might be\n64*4\u003d256bytes. Add more padding accordingly. This should fix occasional\ncrashes of sensor-notifier.\"",
+      "range": {
+        "startLine": 19,
+        "startChar": 0,
+        "endLine": 21,
+        "endChar": 49
+      },
+      "revId": "22d3f053e6613fedc8dc1aec0946f4c4fbb71f40",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
