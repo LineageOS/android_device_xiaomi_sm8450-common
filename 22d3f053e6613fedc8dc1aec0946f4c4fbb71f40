@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "0fcdc17b_8f988742",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2026-03-17T10:34:41Z",
+      "side": 1,
+      "message": "Because libssccalapi@2.0.so does memset to 264 bytes on process_msg()[__builtin_memset(arg1, 0, 0x108)]. Correct me if I\u0027m wrong :)",
+      "parentUuid": "059ea49c_c716582d",
+      "range": {
+        "startLine": 19,
+        "startChar": 0,
+        "endLine": 21,
+        "endChar": 49
+      },
+      "revId": "22d3f053e6613fedc8dc1aec0946f4c4fbb71f40",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "d8ef92f7_eb3a54a1",
