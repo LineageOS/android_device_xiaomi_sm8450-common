@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a96ebaf3_59ed84e6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-03-30T09:31:12Z",
+      "side": 1,
+      "message": "https://review.lineageos.org/c/LineageOS/android_device_lineage_sepolicy/+/478735",
+      "revId": "44c1e29d335fd1a3f5064f21307fc465c09680cc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
