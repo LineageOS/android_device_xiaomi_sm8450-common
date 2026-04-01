@@ -63,6 +63,30 @@
       },
       "revId": "36d8d05632ca64430214000bb8a4f73846d612f7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2d0d06d6_64f19e0a",
+        "filename": "common.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-04-01T18:52:26Z",
+      "side": 1,
+      "message": "It can do something like this - https://github.com/dkpost3/hardware_xiaomi/commit/a27fd8672a2bd787f03121cd4669dd261e98e808 . If someone needs it, of course)",
+      "parentUuid": "e94c3786_49530a8c",
+      "range": {
+        "startLine": 144,
+        "startChar": 0,
+        "endLine": 148,
+        "endChar": 0
+      },
+      "revId": "36d8d05632ca64430214000bb8a4f73846d612f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
