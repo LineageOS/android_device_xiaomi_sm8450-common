@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b242f2ed_7b038b20",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-04-01T08:16:02Z",
+      "side": 1,
+      "message": "set an explicit definition in the target tree and expand the packages if this condition is met?",
+      "revId": "36d8d05632ca64430214000bb8a4f73846d612f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5f96669f_5e7a9146",
+        "filename": "common.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-04-01T08:16:02Z",
+      "side": 1,
+      "message": "ifeq ($(TARGET_HAS_EUICC),true)\nPRODUCT_PACKAGES +\u003d \\\n        XiaomiEsimSwitcher\n\n#Permissions\nPRODUCT_COPY_FILES +\u003d \\\n    frameworks/native/data/etc/android.hardware.telephony.euicc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.telephony.euicc.xml\nendif",
+      "range": {
+        "startLine": 144,
+        "startChar": 0,
+        "endLine": 148,
+        "endChar": 0
+      },
+      "revId": "36d8d05632ca64430214000bb8a4f73846d612f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
