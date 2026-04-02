@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e2a7c23c_95b08d56",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2026-04-02T09:10:26Z",
+      "side": 1,
+      "message": "commit message should use sm8450-common as prefix. i also don\u0027t see why this change should be correct and the commit message is not understandable",
+      "revId": "ea81bdab981ffb203f42e7003db1cdb95d3ed27f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
