@@ -3,6 +3,7 @@ audio.offload.min.duration.secs=30
 media.stagefright.audio.deep=false
 
 # Bluetooth
+bluetooth.auto_connect_profiles.enabled=true
 bluetooth.device_id.vendor_id=0x001D
 bluetooth.profile.a2dp.source.enabled=true
 bluetooth.profile.avrcp.controller.enabled=true
@@ -14,6 +15,4 @@ bluetooth.profile.hid.device.enabled=false
 bluetooth.profile.hid.host.enabled=true
 bluetooth.profile.map.server.enabled=true
 bluetooth.profile.opp.enabled=true
-bluetooth.profile.pan.nap.enabled=true
-bluetooth.profile.pan.panu.enabled=true
 bluetooth.profile.pbap.server.enabled=true
