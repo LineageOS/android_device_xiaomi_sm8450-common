@@ -16,6 +16,24 @@
       "message": "commit message should use sm8450-common as prefix. i also don\u0027t see why this change should be correct and the commit message is not understandable",
       "revId": "ea81bdab981ffb203f42e7003db1cdb95d3ed27f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "04ecc7db_57b4f8f6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-04-02T10:29:26Z",
+      "side": 1,
+      "message": "When extracting media_codecs_diwali_v2.xml from ziyi blobs, the file only contains a set of \u003cInclude\u003e references:\n```\nmedia_codecs_system_default.xml\nmedia_codecs_dolby_audio.xml\nmedia_codecs_with_dolby_taro.xml\nmedia_codecs_with_dolby_diwali.xml\nmedia_codecs_with_dolby_cape.xml\n```\n\nTherefore, when the device variant is set to _diwali_v2 (vendor.media.target_variant\u003d_diwali_v2), it is required to also extract media_codecs_system_default.xml.\n\nWithout this file, the codec configuration remains incomplete and media codecs will fail to initialize properly.",
+      "parentUuid": "e2a7c23c_95b08d56",
+      "revId": "ea81bdab981ffb203f42e7003db1cdb95d3ed27f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
