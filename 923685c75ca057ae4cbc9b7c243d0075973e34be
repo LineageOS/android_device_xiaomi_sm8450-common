@@ -33,6 +33,23 @@
       "message": "Can you test this `org.telegram.messenger` app too? seems this app have issue with auxiliary camera.",
       "revId": "923685c75ca057ae4cbc9b7c243d0075973e34be",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c3c0c42b_20756deb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-05-31T03:26:15Z",
+      "side": 1,
+      "message": "tested vk",
+      "revId": "923685c75ca057ae4cbc9b7c243d0075973e34be",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
