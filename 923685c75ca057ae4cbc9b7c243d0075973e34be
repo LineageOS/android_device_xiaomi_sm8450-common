@@ -16,6 +16,23 @@
       "message": "Tested on marble.\n\nVerified that BHIM QR code scanning works as expected after this\nchange and no longer attempts to access unsupported auxiliary\ncamera devices.\n\nAdditional applications were added to the exclude list based on\nuser reports of similar issues involving auxiliary camera access.",
       "revId": "923685c75ca057ae4cbc9b7c243d0075973e34be",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fd37a90d_296c5ec3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2026-05-31T02:28:11Z",
+      "side": 1,
+      "message": "Can you test this `org.telegram.messenger` app too? seems this app have issue with auxiliary camera.",
+      "revId": "923685c75ca057ae4cbc9b7c243d0075973e34be",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
