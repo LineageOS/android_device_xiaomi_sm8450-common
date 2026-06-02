@@ -50,6 +50,24 @@
       "message": "tested vk",
       "revId": "923685c75ca057ae4cbc9b7c243d0075973e34be",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b75e9e08_b2ebdaf3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 37058
+      },
+      "writtenOn": "2026-06-02T13:46:19Z",
+      "side": 1,
+      "message": "I tested with telegram and it seems fine here",
+      "parentUuid": "fd37a90d_296c5ec3",
+      "revId": "923685c75ca057ae4cbc9b7c243d0075973e34be",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
