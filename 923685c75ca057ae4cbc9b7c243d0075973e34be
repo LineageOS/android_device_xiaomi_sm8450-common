@@ -68,6 +68,24 @@
       "parentUuid": "fd37a90d_296c5ec3",
       "revId": "923685c75ca057ae4cbc9b7c243d0075973e34be",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "decc18b4_b842d6c6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-06-02T14:13:39Z",
+      "side": 1,
+      "message": "https://github.com/crdroidandroid/android_device_xiaomi_sm8550-common/commit/15be86ee7e25584ddca27316651d1e1bd07e76a5\n\nCould we consider applying the same approach here?",
+      "parentUuid": "b75e9e08_b2ebdaf3",
+      "revId": "923685c75ca057ae4cbc9b7c243d0075973e34be",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
