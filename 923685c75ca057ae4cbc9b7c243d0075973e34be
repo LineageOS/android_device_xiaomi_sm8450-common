@@ -104,6 +104,24 @@
       "parentUuid": "decc18b4_b842d6c6",
       "revId": "923685c75ca057ae4cbc9b7c243d0075973e34be",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cca14f44_41d5cedd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-06-07T03:30:39Z",
+      "side": 1,
+      "message": "It helped me:\n```vendor.camera.aux.packagelist\u003dcom.android.camera```\nall problematic applications and webrtc are working correctly.",
+      "parentUuid": "11b6af97_72008509",
+      "revId": "923685c75ca057ae4cbc9b7c243d0075973e34be",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
