@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a7e18625_57e635c0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2026-07-23T10:09:39Z",
+      "side": 1,
+      "message": "sensor-notifier does not crash after this change is applied when it fails to register sensors.",
+      "revId": "5d7da74e931217474115a76e1c9324b6e038cfac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
