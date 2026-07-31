@@ -16,6 +16,23 @@
       "message": "why?",
       "revId": "00855aca88141ec8398b0f74d72aedbbdeed2729",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "487af5ac_918ae639",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30074
+      },
+      "writtenOn": "2026-07-31T12:02:36Z",
+      "side": 1,
+      "message": "The system_ext sepolicy dirs doesn\u0027t exist in the tree currently.\nSo I thought about removing it.",
+      "revId": "00855aca88141ec8398b0f74d72aedbbdeed2729",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
