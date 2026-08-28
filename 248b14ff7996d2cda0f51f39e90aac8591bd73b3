@@ -16,6 +16,24 @@
       "message": "file needs to be sorted again after this",
       "revId": "248b14ff7996d2cda0f51f39e90aac8591bd73b3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ac08a4a4_d5e87546",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-08-28T15:02:00Z",
+      "side": 1,
+      "message": "done",
+      "parentUuid": "2f169f74_0e7855f5",
+      "revId": "248b14ff7996d2cda0f51f39e90aac8591bd73b3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
