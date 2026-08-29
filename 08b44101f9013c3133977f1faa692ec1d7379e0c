@@ -33,6 +33,23 @@
       "message": "I don\u0027t have the full error log but it was something like this:\n\n\nModule \"lib_driver_cmd_qcwcn\" can be found in these namespaces: [\"hardware/qcom-caf/wlan/qcwcn\" \"hardware/qcom/wlan/wcn6740\" \"hardware/qcom/wlan/wcn7760/qcwcn/wpa_supplicant_8_lib\"]\nOr did you mean [\"lib_driver_cmd_bcmdhd\" \"zlib_deflate_fuzzer\"]?",
       "revId": "08b44101f9013c3133977f1faa692ec1d7379e0c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "59eabd74_bcda4d34",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-08-29T11:50:05Z",
+      "side": 1,
+      "message": "this workoraund",
+      "revId": "08b44101f9013c3133977f1faa692ec1d7379e0c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
