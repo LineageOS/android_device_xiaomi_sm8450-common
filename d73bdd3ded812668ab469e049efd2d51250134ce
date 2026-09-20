@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b0e521a8_f91118de",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2026-09-20T13:59:14Z",
+      "side": 1,
+      "message": "No-op, all devices overwrite the power_profile, but correct nonetheless",
+      "revId": "d73bdd3ded812668ab469e049efd2d51250134ce",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
