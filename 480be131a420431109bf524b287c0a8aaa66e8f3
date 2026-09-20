@@ -16,6 +16,24 @@
       "message": "https://review.lineageos.org/c/LineageOS/android_device_xiaomi_sm8450-common/+/503724\n\nI think it makes sense to keep the \"default\" values untouched, as these values have proven to be quite decent overall if per FPS durations are not available.",
       "revId": "480be131a420431109bf524b287c0a8aaa66e8f3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f2dd9aaa_7ffb7c28",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2026-09-20T13:33:03Z",
+      "side": 1,
+      "message": "Acknowledged.",
+      "parentUuid": "d7996f20_31155d6b",
+      "revId": "480be131a420431109bf524b287c0a8aaa66e8f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
