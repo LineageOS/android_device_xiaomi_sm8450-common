@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bd9aa803_3f04b9c1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31890
+      },
+      "writtenOn": "2026-09-21T13:01:41Z",
+      "side": 1,
+      "message": "This seems to be enabled by default in packages/modules/Connectivity\nhttps://github.com/LineageOS/android_packages_modules_Connectivity/blob/lineage-23.2/Tethering/res/values/config.xml#L137\n\nAlso, android code search shows that this overlay is nowehre to be found in frameworks/base",
+      "revId": "e71472c118d65b7381e7ba51527bd7539eaacb27",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
