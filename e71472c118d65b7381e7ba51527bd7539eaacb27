@@ -16,6 +16,24 @@
       "message": "This seems to be enabled by default in packages/modules/Connectivity\nhttps://github.com/LineageOS/android_packages_modules_Connectivity/blob/lineage-23.2/Tethering/res/values/config.xml#L137\n\nAlso, android code search shows that this overlay is nowehre to be found in frameworks/base",
       "revId": "e71472c118d65b7381e7ba51527bd7539eaacb27",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "97889726_579cde9c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2026-09-22T04:45:44Z",
+      "side": 1,
+      "message": "It was dropped on https://review.lineageos.org/c/LineageOS/android_device_xiaomi_sm8450-common/+/503752",
+      "parentUuid": "bd9aa803_3f04b9c1",
+      "revId": "e71472c118d65b7381e7ba51527bd7539eaacb27",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
