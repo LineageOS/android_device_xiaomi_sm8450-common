@@ -34,6 +34,24 @@
       "parentUuid": "bd9aa803_3f04b9c1",
       "revId": "e71472c118d65b7381e7ba51527bd7539eaacb27",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "05cf9eba_6209b95a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31890
+      },
+      "writtenOn": "2026-09-22T12:40:50Z",
+      "side": 1,
+      "message": "Then this commit can be dropped entirely, no reason to add an overlay just to remove it.",
+      "parentUuid": "97889726_579cde9c",
+      "revId": "e71472c118d65b7381e7ba51527bd7539eaacb27",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
