@@ -16,6 +16,24 @@
       "message": "Maybe you can pick this Ide6d78985ad071b02b71f2bad6f5d4ca36fb0c86",
       "revId": "e15becf454c38f1ab76ff318d96f3ec904358090",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6b82e61b_e497efa2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-10-07T05:51:46Z",
+      "side": 1,
+      "message": "Could you please clarify a bit more specifically what exactly you are suggesting I cherry-pick from `Ide6d78985ad071b02b71f2bad6f5d4ca36fb0c86`?\nThis change only cleans up the remaining mem-offline/PASR-related bits from the device tree that were left behind after `https://review.lineageos.org/c/LineageOS/android_device_xiaomi_sm8450-common/+/492598.`\nFrom what I can see, the referenced change is either broader than what is needed here, or the relevant parts are already present in our tree.\nIf I am missing something, please point me to the specific files or changes that you think should be picked.",
+      "parentUuid": "ce16d6d4_c3ba6b52",
+      "revId": "e15becf454c38f1ab76ff318d96f3ec904358090",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
