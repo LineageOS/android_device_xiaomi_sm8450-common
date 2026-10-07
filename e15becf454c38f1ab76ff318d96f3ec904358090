@@ -51,6 +51,42 @@
       "message": "You can pick it from https://review.lineageos.org/c/LineageOS/android_device_xiaomi_sm8550-common/+/506446. I just suggest respecting original changes and original authorship.\n\nIf you are keeping the current commit, it is better to add `fixup!` at the prefix of the commit.",
       "revId": "e15becf454c38f1ab76ff318d96f3ec904358090",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3838e0a8_607937cb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-10-07T07:12:14Z",
+      "side": 1,
+      "message": "I respect the author of the original change, but this change is mostly cleanup of the remaining PASR / mem-offline bits.\n\nThe original commit was not directly applicable to my case. I spent roughly two months debugging the issue and found the actual cause independently.\n\nAlso, I am specifically referring to **Patchset 2** of the referenced change: it was updated after my fix, and some additions there overlap with changes I had already made. I am not claiming that the whole original change was based on my work.\n\nFor reference:\n\n* https://review.lineageos.org/q/topic:%22fsa4480-supply-mode%22\n* https://review.lineageos.org/c/LineageOS/android_kernel_xiaomi_sm8450-devicetrees/+/492920\n\nSo I don\u0027t think it is entirely correct to attribute this cleanup to that commit alone.\n\nThat said, I don\u0027t really care who is listed as the author. My main concern is that the final implementation is correct and works. I\u0027d rather not spend more time arguing about authorship for what is essentially cleanup.",
+      "parentUuid": "91a5baf1_4f9f0208",
+      "revId": "e15becf454c38f1ab76ff318d96f3ec904358090",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9307ac48_f7ee0349",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-10-07T07:12:14Z",
+      "side": 1,
+      "message": "Я уважаю автора первоначального изменения, но это изменение в основном связано с удалением оставшихся фрагментов PASR / mem-offline.\n\nПервоначальная фиксация не была применима непосредственно к моему случаю. Я потратил примерно два месяца на устранение проблемы и самостоятельно нашел фактическую причину.\n\nКроме того, я конкретно имею в виду ** Набор исправлений 2** из упомянутого изменения: он был обновлен после моего исправления, и некоторые дополнения в нем совпадают с изменениями, которые я уже внес. Я не утверждаю, что все первоначальные изменения были основаны на моей работе.\n\nДля справки:\n\n* https://review.lineageos.org/q/topic:%22fsa4480-supply-mode%22\n* https://review.lineageos.org/c/LineageOS/android_kernel_xiaomi_sm8450-devicetrees/+/492920\n\nПоэтому я не думаю, что было бы правильно приписывать эту очистку только этому коммиту.\n\nТем не менее, мне на самом деле все равно, кто указан в качестве автора. Моя главная забота заключается в том, чтобы конечная реализация была правильной и работала. Я бы предпочел не тратить больше времени на споры об авторстве того, что по сути является очисткой.",
+      "parentUuid": "91a5baf1_4f9f0208",
+      "revId": "e15becf454c38f1ab76ff318d96f3ec904358090",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
