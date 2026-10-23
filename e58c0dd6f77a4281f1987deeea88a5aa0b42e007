@@ -16,6 +16,24 @@
       "message": "Only tested on xiaomi sm8450 unofficial devices (Xiaomi Pad 6 Pro, liuqin), need to be tested",
       "revId": "e58c0dd6f77a4281f1987deeea88a5aa0b42e007",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "50b13e97_160ff2ab",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-10-23T14:35:33Z",
+      "side": 1,
+      "message": "can you describe how to reproduce the problem?",
+      "parentUuid": "733f758b_82593f6e",
+      "revId": "e58c0dd6f77a4281f1987deeea88a5aa0b42e007",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
